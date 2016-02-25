@@ -8,21 +8,20 @@ bower 的作用
    4. 升级容易
 
 bower 的使用
-   1. 安装bower
-    npm install -g bower
-   2. 查看bower命令
-    bower help
-   3. 包的安装
-    bower install jquery
+   1. 安装bower  
+    npm install -g bower  
+   2. 查看bower命令  
+    bower help  
+   3. 包的安装  
+    bower install jquery  
 
-bower.json文件的使用
-   使用bower init 命令来创建bower.json文件：
-   bower install bootstrap --save //--save参数是保存配置到你的bower.json
+bower.json文件的使用  
+   使用bower init 命令来创建bower.json文件：  
+   bower install bootstrap --save //--save参数是保存配置到你的bower.json  
 	
-.bowerrc文件的作用
-   自定义包的安装目录
+.bowerrc文件的作用  
+   自定义包的安装目录  
 	
-	
-参考文档：
+参考文档：  
 	https://segmentfault.com/a/1190000000349555
    
