@@ -1,0 +1,37 @@
+{
+  "name": "弹框组件",
+  "version": "",
+  "homepage": "https://github.com/lanma121/javascriptAddon",
+  "authors": [
+    "lanma121 <786716597@qq.com>"
+  ],
+  "description": "自定义弹框",
+  "main": "layer.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "jQuery",
+    "弹框",
+    "自定义"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "layer": "*",
+    "集合map": "lm-map#^0.0.1"
+  }
+}
