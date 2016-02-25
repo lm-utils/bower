@@ -7,6 +7,7 @@
    2. 节省时间。一行代码搞定
    3. 可以展现客户端的依赖关系在bower.json文件
    4. 升级容易
+   
 ###bower 的使用
    1. 安装bower  
     npm install -g bower  
