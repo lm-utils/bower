@@ -1,7 +1,7 @@
 # bower
 ###Bower —— 管理客户端软件包依赖关系
+   > Bower 是 twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系。  
 
-> Bower 是 twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系。  
 ###bower 的作用
    1. 可用于搜索、安装和卸载如JavaScript、HTML、CSS之类的网络资源
    2. 节省时间。一行代码搞定
@@ -37,7 +37,9 @@
 		? Password:    
 		# unregister packages after successful login      
 		bower unregister <package>  
-
+###wiredep
+> 将bower.json中的依赖自动注入！！！  
+  https://github.com/taptapship/wiredep
 	
 参考文档：  
 	https://segmentfault.com/a/1190000000349555  
