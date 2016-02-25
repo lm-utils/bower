@@ -16,14 +16,13 @@ bower 的使用
     bower install jquery
 
 bower.json文件的使用
-    使用bower init 命令来创建bower.json文件：
-    bower install bootstrap --save //--save参数是保存配置到你的bower.json
+   使用bower init 命令来创建bower.json文件：
+   bower install bootstrap --save //--save参数是保存配置到你的bower.json
 	
 .bowerrc文件的作用
-	自定义包的安装目录
+   自定义包的安装目录
 	
 	
 参考文档：
-
 	https://segmentfault.com/a/1190000000349555
    
