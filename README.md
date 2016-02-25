@@ -1,14 +1,14 @@
 # bower
- ###Bower —— 管理客户端软件包依赖关系
- 
-	Bower 是 twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系。  
- ###bower 的作用
+###Bower —— 管理客户端软件包依赖关系
+
+	> Bower 是 twitter 推出的一款包管理工具，基于nodejs的模块化思想，把功能分散到各个模块中，让模块和模块之间存在联系，通过 Bower 来管理模块间的这种联系。  
+###bower 的作用
    1. 可用于搜索、安装和卸载如JavaScript、HTML、CSS之类的网络资源
    2. 节省时间。一行代码搞定
    3. 可以展现客户端的依赖关系在bower.json文件
    4. 升级容易
 
- ###bower 的使用
+###bower 的使用
    1. 安装bower  
     npm install -g bower  
    2. 查看bower命令  
